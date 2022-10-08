@@ -1,32 +1,37 @@
-The Google Pixel Watch Is Official, and You Can Pre-Order One Right Now
+Here's Everything Google Announced at the "Made by Google" Pixel Event 2022
 ______________________
- We finally have official details and a release date for Google's newest wearable: The Google Pixel Watch.
+The new Pixel 7 phones, the Pixel Watch, and a closer look at the Pixel Tablet were the highlights of Google's 2022 hardware event.
+pixel 7
+Image Credit: Google
 
-Today's Made By Google '22 presentation did away with any more need to speculate 
-on the Google Pixel Watch and gave us a much more complete look at the new device. 
-Technically, "devices" as it comes in two varieties: Bluetooth and Wi-Fi only, or Bluetooth 
-and Wi-Fi plus 4G LTE.
-Google Pixel Watch
+Google held its Made by Google 2022 event this October 6th where it announced some new additions to the Pixel portfolio of products, including two phones and its first smartwatch. Let's take a quick look at these products, check out their prices, discuss some features, and see if they make a good first impression.
+Pixel 7 and Pixel 7 Pro
 
-Google
+The new Pixel 7 and Pixel 7 Pro flaunt a tweaked camera bar design. Both devices are still more affordable than the competition; the former starts at $599 and the latter starts at $899 which are the same prices as the Pixel 6 and Pixel 6 Pro launched last year.
 
-The Google Pixel Watch offers an always-on, 320 PPI AMOLED display for clear visuals 
-with up to 1000 nits of brightness that's made of custom 3D Corning Gorilla Glass for better 
-durability. And water resistance for up to 50 meters.
+The Pixel 7 has a smaller 6.3-inch FHD+ display with a 90Hz refresh rate and comes in three colors: Obsidian, Snow, and Lemongrass. The Pixel 7 Pro has a bigger 6.7-inch QHD+ display with a variable refresh rate of 10–120Hz thanks to its LTPO panel; it comes in three colors too: Obsidian, Snow, and Hazel.
 
-As for performance, it's built with an Exynos 9110 SoC along with a Cortex M33 co-processor, 
-plus 32 GB of space and 2 GB of SDRAM. So it won't compete with your smartphone, but it's also 
-not a smartphone itself.
-Google Pixel Watch communication screens
+Both devices are powered by the new Tensor G2 chip and protected by the Titan M2 security chip—similar to the Samsung Knox security platform. Both are made of recycled aluminum, but the camera bar has a matte finish on the Pixel 7 and a glossy finish on the Pixel 7 Pro.
 
-Google
+Sadly, just like last year, only the more expensive Pixel 7 Pro has a dedicated 48MP telephoto camera with 5x optical zoom whereas the regular Pixel 7 has a dual camera system with a 50MP wide and a 12MP ultra-wide lens, which might be a deal-breaker for some buyers.
+Pixel Watch
 
-Of course, the Google Pixel Watch is also loaded with various sensors, much like its FitBit
- counterparts. Though specifically, the Pixel Watch uses an accelerometer, altimeter, ambient 
- light sensor, blood oxygen sensor, compass, gyroscope, a multipurpose electrical sensor, and
-  optical heart rate sensor. So it will be able to track where you are and how you're doing on
-   several fronts. And, of course, it has a built-in microphone and speaker, so you can use it
-    to make and receive calls, texts, and other forms of communication.
+The Pixel Watch was one of the several products teased at the Google I/O 2022 event, alongside the Pixel 7 series. It's the first smartwatch from the company and costs $349 for the standard variant and $399 for the LTE variant with call support. The watch uses 80% recycled steel and all the fabric bands are made of 100% recycled yarn.
 
-You can pre-order the Google Pixel Watch right now through Google's online store (in Black,
- Silver, or Gold), starting at $349.99, with shipping starting next week on Thursday, October 13
+The Pixel Watch has everything you'd expect from a smartwatch including sleep tracking, workout tracking, health data analysis, and more. But what's probably more exciting is that the watch comes with six months of Fitbit Premium and three months of YouTube Music Premium for free.
+
+The circular design of the Pixel Watch may resemble the Samsung Galaxy Watch, but its curved glass and the watch crown give it a unique look. We aren't keen on the thick bezels, but at least you can mix and match different bands to make your watch look cooler.
+Pixel Tablet
+
+Google also announced the Pixel Tablet which is coming to stores in 2023. The company didn't reveal the price of the device, but we do know that it'll house the same Google Tensor G2 processor, allowing it to be just as good as the Pixel 7 at speech detection, Live Translate, Magic Eraser, and other similar features.
+Google Pixel Tablet
+Image Credit: Google
+
+We also know that there will be a charging speaker dock on which you can place your tablet, allowing it to double as a Next Hub. The software is custom designed for the larger screen, all while retaining all the bells and whistles of the Material You design language.
+
+The tablet has a single rear camera, meaning no ultra-wide shots, sadly. Google hasn't announced a Pixel stylus for the tablet yet, so that's something we'll have to wait and see.
+The Pixel Portfolio Is Growing
+
+Alongside the Pixel 7 series, Pixel Watch, and Pixel Tablet, you may also consider the Pixel Buds Pro for $199 unveiled at Google I/O. With all of these products announced, it's becoming clear Google is working to build a Pixel ecosystem to rival giants like Apple and Samsung.
+
+Software has always been Google's forte and it still is, but as the company continues to invest in making better hardware, it's becoming easier to recommend Google products. And this, ultimately, is better for consumers as it increases competition in the industry
