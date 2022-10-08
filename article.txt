@@ -30,3 +30,233 @@ Of course, the Google Pixel Watch is also loaded with various sensors, much like
 
 You can pre-order the Google Pixel Watch right now through Google's online store (in Black,
  Silver, or Gold), starting at $349.99, with shipping starting next week on Thursday, October 13
+
+ ------------------------
+ 
+ The 8 Most Common Tricks Used to Hack Passwords
+ ______________________
+Want to figure out someone's password? Review your life choices. Learn how to protect your password from hackers instead.
+Image Credit: SergeyNivens/Depositphotos
+
+When you hear "security breach," what springs to mind? A malevolent hacker sitting in front of screens 
+covered in Matrix-style digital text? Or a basement-dwelling teenager who hasn't seen daylight in three 
+weeks? How about a powerful supercomputer attempting to hack the entire world?
+
+Hacking is all about one thing: your password. If someone can guess your password, they don't need 
+fancy hacking techniques and supercomputers. They'll just log in, acting as you. If your password is 
+short and simple, it's game over.
+
+There are eight common tactics hackers use to hack your password.
+1. Dictionary Hack
+top 20 leaked passwords 2016
+
+First up in the common password hacking tactics guide is the dictionary attack. Why is it called 
+a dictionary attack? Because it automatically tries every word in a defined "dictionary" against 
+the password. The dictionary isn't strictly the one you used in school.
+
+No. This dictionary is actually a small file containing the most commonly used password combinations.
+ That includes 123456, qwerty, password, iloveyou, and the all-time classic, hunter2.
+
+The above table details the most leaked passwords in 2016. The below table details the most leaked 
+passwords in 2020.
+
+Note the similarities between the two—and make sure you don't use these incredibly simple options. 
+And for those wondering why this leaked password list hasn't been updated since 2020, it's simply 
+because the weak, awful passwords remain the same, just in a slightly different order. Long story 
+short, if you don't want someone to figure out your password, never use any of these.
+top 20 leaked passwords 2020
+
+    Pros: Fast; will usually unlock some woefully protected accounts.
+    Cons: Even slightly stronger passwords will remain secure.
+    Stay safe: Use a strong single-use password for each account in conjunction with a password
+     management app. The password manager lets you store your other passwords in a repository.
+      Then you can use a single, ridiculously strong password for every site. Google Chrome does 
+      come with an integrated password manager, but standalone password managers are typically 
+      considered more secure.
+
+2. Brute Force
+
+Next up is the brute force attack, whereby an attacker tries every possible character 
+combination in an attempt to guess your password. Attempted passwords will match the
+ specifications for the complexity rules, e.g., including one upper-case, one lower-case,
+  decimals of Pi, your pizza order, and so on.
+
+A brute force attack will also try the most commonly used alphanumeric character combinations 
+first, too. These include the previously listed passwords, as well as 1q2w3e4r5t, zxcvbnm, and q
+wertyuiop. It can take a very long time to figure out a password using this method, but that 
+depends entirely on password complexity.
+
+    Pros: Theoretically, it will crack any password by way of trying every combination.
+    Cons: Depending on password length and difficulty, it could take an extremely long time. 
+    Throw in a few variables like $, &, {, or ], and figuring out the password becomes extremely 
+    difficult.
+    Stay safe: Always use a variable combination of characters, and where possible, introduce extra 
+    symbols to increase complexity.
+
+3. Phishing
+
+This isn't strictly a "hack," but falling prey to a phishing or spear-phishing attempt will usually 
+end badly. General phishing emails are sent by the billions to all manner of internet users around 
+the globe, and it is definitely one of the most popular ways to find out someone's password.
+
+A phishing email generally works like this:
+
+    Target user receives a spoofed email purporting to be from a major organization or business.
+    Spoofed email demands immediate attention, featuring a link to a website.
+    This link actually connects to a fake login portal, mocked up to appear exactly the same as 
+    the legitimate site.
+    The unsuspecting target user enters their login credentials and is either redirected or told to
+     try again.
+    User credentials are stolen, sold, or used nefariously (or both).
+
+The daily spam volume sent worldwide remains high, accounting for over half of all emails sent globally. 
+Furthermore, the volume of malicious attachments is high, too, with Kaspersky blocking over 148 million
+ malicious attachments in 2021. Furthermore, Kaspersky's Anti-Phishing system blocked an additional 253
+  million phishing links. Remember, this is just for Kaspersky, so the real number is much higher.
+4 Images
+kaspersky 2021 malicious mail chart
+Credit to Kaspersky Spam and Phishing report 2021
+kaspersky share of spam mail monthly chart
+Credit to Kaspersky Spam Phishing report 2021
+kaspersky top-level phishing pages 2021
+Credit Kaspersky Spam Phishing report 2021
+distribution of phishing organizations 2021
+Credit to Kaspersky Spam and Phishing report 2021
+
+Back in 2017, the biggest phishing lure was a fake invoice. However, in 2020, the COVID-19 pandemic 
+provided a new phishing threat. In April 2020, not long after many countries went into pandemic lockdown,
+ Google announced it was blocking over 18 million COVID-19-themed malicious spam
+  and phishing emails per day. Huge numbers of these emails use official government
+   or health organization branding for legitimacy and catch victims off-guard.
+
+    Pros: The user literally hands over their login information, including 
+    passwords—relatively high hit rate, easily tailored to specific services 
+    or specific people in a spear-phishing attack.
+    Cons: Spam emails are easily filtered, spam domains blacklisted, and major
+     providers like Google constantly update protections.
+    Stay safe: Stay skeptical of emails, and increase your spam filter to its 
+    highest setting or, better still, use a proactive whitelist. Use a link checker
+     to ascertain if an email link is legitimate before clicking.
+
+4. Social Engineering
+
+Social engineering is essentially phishing in the real world, away from the screen.
+
+A core part of any security audit is gauging what the entire workforce understands.
+ For instance, a security company will phone the business they are auditing.
+  The "attacker" tells the person on the phone they are the new office tech support team,
+   and they need the latest password for something specific.
+
+An unsuspecting individual may hand over the keys without a pause for thought.
+
+The scary thing is how often this works. Social engineering has existed for centuries. Being 
+duplicitous to gain entry to a secure area is a common method of attack and one that is only 
+guarded against with education. This is because the attack won't always ask directly for 
+a password. It could be a fake plumber or electrician asking for entry to a secure building, 
+and so on. When someone says they were tricked into revealing their password, it is often the
+ result of social engineering.
+
+    Pros: Skilled social engineers can extract high-value information from a range of targets. 
+    It can be deployed against almost anyone, anywhere. It's extremely stealthy, and professionals 
+    are adept at extracting information that could help guess a password.
+    Cons: A social engineering failure can raise suspicions about an impending attack, and 
+    uncertainty as to whether the correct information is procured.
+    Stay safe: This is a tricky one. A successful social engineering attack will be complete by
+     the time you realize anything is wrong. Education and security awareness is a core mitigation
+      tactic. Avoid posting personal information that could be later used against you.
+
+5. Rainbow Table
+md5 hash example logmein
+
+A rainbow table is usually an offline password attack. For example, an attacker has acquired a 
+list of user names and passwords, but they're encrypted. The encrypted password is hashed. 
+This means it looks completely different from the original password.
+
+For instance, your password is (hopefully not!) logmein. The known MD5 hash for this password is 
+"8f4047e3233b39e4444e1aef240e80aa."
+
+Gibberish to you and I. But in certain cases, the attacker will run a list of plaintext 
+passwords through a hashing algorithm, comparing the results against an encrypted password 
+file. In other cases, the encryption algorithm is vulnerable, and most passwords are already
+ cracked, like MD5 (hence why we know the specific hash for "logmein."
+
+This is where the rainbow table comes into its own. Instead of having to process hundreds of
+ thousands of potential passwords and matching their resulting hash, a rainbow table is a 
+ huge set of precomputed algorithm-specific hash values. Using a rainbow table drastically
+  decreases the time it takes to crack a hashed password—but it isn't perfect. Hackers can
+   purchase prefilled rainbow tables populated with millions of potential combinations.
+
+    Pros: Can figure out complex passwords in a short amount of time; grants the hacker a lot 
+    of power over certain security scenarios.
+    Cons: Requires a huge amount of space to store the enormous (sometimes terabytes) rainbow 
+    table. Also, attackers are limited to the values contained in the table (otherwise, they
+     must add another entire table).
+    Stay safe: Another tricky one. Rainbow tables offer a wide range of attacking potential. 
+    Avoid any sites that use SHA1 or MD5 as their password hashing algorithm. Avoid any sites 
+    that limit you to short passwords or restrict the characters you can use. Always use a 
+    complex password.
+
+6. Malware/Keylogger
+
+Another sure way to lose your login credentials is to fall foul of malware. Malware is 
+everywhere, with the potential to do massive damage. If the malware variant features a
+ keylogger, you could find all of your accounts compromised.
+
+    Lots of password-stealing software out there. Make sure you check your computer 
+    with a good anti-malware program. &mdash; John Batch (@theflyingdoctor) June 10, 2020
+
+Alternatively, the malware could specifically target private data or introduce a 
+remote access Trojan to steal your credentials.
+
+    Pros: Thousands of malware variants, many customizable, with several easy delivery
+     methods. A good chance a high number of targets will succumb to at least one variant. 
+     It can go undetected, allowing further harvesting of private data and login credentials.
+    Cons: Chance that the malware won't work, or is quarantined before accessing data;
+     no guarantee that data is useful.
+    Stay safe: Install and regularly update your antivirus and antimalware software.
+     Carefully consider your download sources. Do not click through installation 
+     packages containing bundleware and more. Steer clear of nefarious sites 
+     (easier said than done). Use script blocking tools to stop malicious scripts.
+
+7. Spidering
+
+Spidering ties into the dictionary attack. If a hacker targets a specific institution
+ or business, they might try a series of passwords relating to the business itself. 
+ The hacker could read and collate a series of related terms—or use a search spider 
+ to do the work for them.
+
+You might have heard the term "spider" before. These search spiders are extremely 
+similar to those that crawl through the internet, indexing content for search engines.
+ The custom word list is then used against user accounts in the hope of finding a match.
+
+    Pros: Can potentially unlock accounts for high-ranking individuals within an
+     organization. Relatively easy to put together and adds an extra dimension to 
+     a dictionary attack.
+    Cons: Could end up fruitless if organizational network security is well configured.
+    Stay safe: Again, only use strong, single-use passwords comprised of random
+     strings; nothing linking to your persona, business, organization, and so on.
+
+8. Shoulder Surfing
+
+The final option is one of the most basic. What if someone just looks over your
+ shoulder while you're typing in your password?
+
+Shoulder surfing sounds a little ridiculous, but it does happen. If you're
+ working in a busy downtown café and not paying attention to your surroundings,
+  someone could get close enough to note your password as you type, but it's probably 
+  not the easiest way to figure out someones password.
+
+    Pros: Low technology approach to stealing a password.
+    Cons: Must identify the target before figuring out the password; could reveal themselves 
+    in the process of stealing.
+    Stay safe: Remain observant of those around you when typing your password. Cover your
+     keyboard and obscure your keys during input.
+
+Always Use a Strong, Unique, Single-Use Password
+
+So, how do you stop a hacker from stealing your password? The really short answer is that
+ you cannot truly be 100 percent safe. The tools hackers use to steal your data are changing 
+ all the time and there are countless videos and tutorials on guessing passwords or learning 
+ how to hack a password, or even just how to figure out someone's password.
+
+One thing is for sure: using a strong, unique, single-use password never hurt anyone
