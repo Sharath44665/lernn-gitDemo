@@ -32,3 +32,34 @@ and cloud versions of the Resident Evil 2 and RE 3 remakes, RE 7, coming later t
 But of course, the new Legend of Zelda had to wrap up the presentation with another brief teaser,
  but this time it included a full title and release date. The Legend of Zelda: Tears of the Kingdom
   is expected to land on the Switch on May 12, 2023. 
+
+______________________
+
+How to Send Voice Messages to Your Friends on PS5
+______________________
+ How Do I Send Voice Messages via PS5?
+
+To send a voice message on your PlayStation 5, start by pressing the PS button on your DualSense controller from the dashboard. In the Control Center at the bottom, select Game Base.
+selecting game base in the control center on ps5
+
+When the pop-up window appears, press Options and select Go to Game Base.
+selecting go to game base on ps5
+
+In Game Base, in the Friends tab, select the friend you want to send the message to. Then, select Send Message on the right side of the top menu.
+selecting to send a message to a friend on ps5
+
+In the chat window, select the microphone in the bottom-left corner. If you don’t see it, make sure you update your PlayStation 5 to the latest firmware version.
+selecting the microphone option to send a voice message to a friend on ps5
+
+Select the Record button to begin recording the voice message – your DualSense controller has a built-in microphone, so just speak into it, like you do when issuing PS5 voice commands, to record. Keep in mind that you’ll only be able to record a 15-second voice message.
+the record button highligted in a pop up when sending a voice message to a friend on ps5
+
+When you’re done recording, select the Send button to finally send your voice message.
+the option to send a recorded voice message to a friend on ps5
+
+Before sending the message, you can listen to it. If you don’t like how it sounds, or you made a mistake, just hit the Record Again button to re-record the message.
+Save Time Typing by Sending a Voice Message on PS5
+
+You don’t always have to type a message when chatting with your friends on PlayStation 5. You also have the option to send a voice message, which can be a quick and fun way to communicate sometimes.
+
+As long as you don’t mind speaking into your DualSense controller, sending a voice message on your PS5 is pretty easy.
